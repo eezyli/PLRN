@@ -10,6 +10,7 @@ Citation and Contact
 =
 
 Please consider to cite the paper when you use our dataset:
+```
 @article{li2024irregular,
   title={Irregular text block recognition via decoupling visual, linguistic, and positional information},
   author={Li, Ziyan and Jin, Lianwen and Zhang, Chengquan and Zhang, Jiaxin and Xie, Zecheng and Lyu, Pengyuan and Yao, Kun},
